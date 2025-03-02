@@ -1,0 +1,6 @@
+2025-03-02 15:11:37 INFO: Hello, my name is Abhishek Raturi
+2025-03-02 15:11:37 INFO: My gender is Male
+2025-03-02 15:11:37 INFO: My hobby is Playing chess
+2025-03-02 15:11:37 ERROR: Name cannot be None
+2025-03-02 15:11:37 ERROR: Gender cannot be None
+2025-03-02 15:11:37 INFO: My hobby is Playing chess
